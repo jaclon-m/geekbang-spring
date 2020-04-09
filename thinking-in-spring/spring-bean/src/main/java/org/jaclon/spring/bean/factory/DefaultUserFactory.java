@@ -11,4 +11,5 @@ package org.jaclon.spring.bean.factory;
  * @date 2020/4/7
  */
 public class DefaultUserFactory implements UserFactory {
+
 }

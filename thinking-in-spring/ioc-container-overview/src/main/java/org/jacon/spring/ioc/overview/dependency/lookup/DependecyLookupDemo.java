@@ -21,11 +21,11 @@ public class DependecyLookupDemo {
         //按类型查找
         //lookupByType(beanFactory);
         //延时查找
-        //lookupInLazy(beanFactory);
+        lookupInLazy(beanFactory);
         // 按照类型查找集合对象
         //lookupCollectionsByType(beanFactory);
         //按照注解查找对象
-        lookupByAnnotationType(beanFactory);
+        //lookupByAnnotationType(beanFactory);
 
     }
 
